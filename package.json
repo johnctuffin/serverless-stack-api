@@ -14,12 +14,14 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.766.0",
+    "jest": "^26.4.2",
     "serverless-bundle": "2.0.0",
     "serverless-dotenv-plugin": "^2.1.1",
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
     "save": "^2.4.0",
+    "stripe": "^8.107.0",
     "uuid": "^7.0.3"
   }
 }
